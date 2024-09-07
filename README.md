@@ -3,4 +3,4 @@ UE4SS Plugin to enable Native HDR Rendering when Games do not support it straigh
 
 Tested with:
 
-*) Project Wingman (Beta Branch)
+* Project Wingman (Beta Branch)
